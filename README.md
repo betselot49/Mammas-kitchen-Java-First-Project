@@ -1,1 +1,1 @@
-# Mammas-kitchen-Java-First-project
+# Mammas kitchen Java-First-project
